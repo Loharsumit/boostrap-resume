@@ -39,12 +39,12 @@ h5 {
 }
 
 a {
-     color: #2325ad !important;
+     color: #fff !important;
      text-decoration: none !important;
 }
 
 a:hover {
-    color: #fff  !important;
+    color: #2325ad  !important;
     text-decoration: none !important;
 }
 
